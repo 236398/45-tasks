@@ -5,6 +5,6 @@ function order_sandwich(items) {
         console.log(`- ${item}`);
     }
 }
-order_sandwich(["ham", "cheese", "lettuce", "tomato"]);
-order_sandwich(["turkey", "avocado", "cheese"]);
-order_sandwich(["chicken", "bacon", "lettuce", "tomato", "pickles"]);
+order_sandwich(["grilled-beef patty", "cheese", "lettuce", "cucumber", "tomato", "tahini sauce"]);
+order_sandwich(["veggies", "avocado", "cheese", "iceberg", ""]);
+order_sandwich(["chicken", "mayonnaise", "lettuce", "tomato", "pickles"]);
